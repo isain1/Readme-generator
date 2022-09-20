@@ -1,5 +1,5 @@
 
-  # Test Application
+  # Test Apllication
 
   ## Description
 
@@ -20,7 +20,7 @@
 
   ## Usage
 
-  To create Readme documents
+  To generate Readme.md files
 
   ## Credits
 
