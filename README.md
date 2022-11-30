@@ -38,6 +38,9 @@
 
   ![Example of a Readme.md file](https://github.com/isain1/Readme-generator/blob/main/assets/images/generated-Readme-screenshot.PNG?raw=true)
 
+  ## Link to video displaying application
+
+  [Click here](https://drive.google.com/file/d/1arvhwKSB-9rhoh8lC9l3xj-lD9OwWWaP/view?usp=share_link)
 
   ## Questions
 
